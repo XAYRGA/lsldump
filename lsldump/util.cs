@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 //using ZLibNet; // Microsoft's implementation doesn't work.
-using System.IO.Compression;
+// using System.IO.Compression;
+using Ionic.Zlib;
 
 namespace lsldump
 {
